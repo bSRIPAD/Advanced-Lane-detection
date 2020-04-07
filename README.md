@@ -1,21 +1,12 @@
 
 ## Advanced Lane Finding
-[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
-![Lanes Image](./examples/example_output.jpg)
+==
+In this Advanced Lane Detection project, we apply computer vision techniques to augment video output with a detected road lane, road radius curvature and road centre offset. The video was supplied by Udacity and captured using the middle camera.
 
-In this project, your goal is to write a software pipeline to identify the lane boundaries in a video, but the main output or product we want you to create is a detailed writeup of the project.  Check out the [writeup template](https://github.com/udacity/CarND-Advanced-Lane-Lines/blob/master/writeup_template.md) for this project and use it as a starting point for creating your own writeup.  
-
-Creating a great writeup:
----
-A great writeup should include the rubric points as well as your description of how you addressed each point.  You should include a detailed description of the code used in each step (with line-number references and code snippets where necessary), and links to other supporting documents or external references.  You should include images in your writeup to demonstrate how your code works with examples.  
-
-All that said, please be concise!  We're not looking for you to write a book here, just a brief description of how you passed each rubric point, and references to the relevant code :). 
-
-You're not required to use markdown for your writeup.  If you use another method please just submit a pdf of your writeup.
+![sample lane detection result](https://raw.githubusercontent.com/bSRIPAD/Advanced-Lane-detection/master/output_videos/project_video_output.mp4)
 
 The Project
 ---
->>>>>>> 92d13c19d7812954c3f9a57f029cfdaf8a057484
 
 The goals / steps of this project are the following:
 
@@ -175,11 +166,11 @@ Shown in example above.
 - Output for : **project_video.mp4**
 
 
-[Watch the video](./output_images/project_video_output_sample_img.png )
+![Watch the video](./output_videos/project_video_output.mp4)
 
 - Output for : **challenge_video.mp4**
 
-[Watch the video](./output_images/challenge_video_ouput_sample_img.png )
+![Watch the video](./output_videos/challenge_video_output.mp4 )
 
 ---
 
