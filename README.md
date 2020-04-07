@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-## **Advanced Lane Finding Project**
-=======
 ## Advanced Lane Finding
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 ![Lanes Image](./examples/example_output.jpg)
@@ -178,11 +175,11 @@ Shown in example above.
 - Output for : **project_video.mp4**
 
 
-[![Watch the video](output_images/project_video_output_sample_img.png )
+[Watch the video](./output_images/project_video_output_sample_img.png )
 
 - Output for : **challenge_video.mp4**
 
-[![Watch the video](output_images/challenge_video_ouput_sample_img.png )
+[Watch the video](./output_images/challenge_video_ouput_sample_img.png )
 
 ---
 
